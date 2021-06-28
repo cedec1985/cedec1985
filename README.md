@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cedec1985
-- 👀 I’m interested in web programming and development
-- 🌱 I’m currently learning SEO (referencement web sites) and Django
-- 💞️ I’m looking to collaborate on PHP projects
+- 👀 I’m interested in web programming 
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular projects
 - 📫 How to reach me cedricdecraim@msn.com 
 
 <!---
